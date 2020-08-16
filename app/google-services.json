@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1051440674066",
+    "firebase_url": "https://phonepark-c7cab.firebaseio.com",
+    "project_id": "phonepark-c7cab",
+    "storage_bucket": "phonepark-c7cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051440674066:android:98adf63f6caa816f",
+        "android_client_info": {
+          "package_name": "siokouros.filippos.phonepark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051440674066-7ucafsrusqmk6vjei9kia5eq7v8igdf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "siokouros.filippos.phonepark",
+            "certificate_hash": "8ad2acef553f7943a17c12855f4c1ce2c3072bb3"
+          }
+        },
+        {
+          "client_id": "1051440674066-j6qi1famkjj18vca3qka3k6joae42qqb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1051440674066-j6qi1famkjj18vca3qka3k6joae42qqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVI8biau-IgNK9gACXOdo6vWWd8LFg72E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051440674066-j6qi1famkjj18vca3qka3k6joae42qqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
